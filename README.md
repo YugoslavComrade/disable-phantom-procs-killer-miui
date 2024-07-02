@@ -2,7 +2,11 @@
 
 **Quick guide to disable phantom process killer on Miui**
 
-You need:
+## What do you need
 
-Termux
+[Termux](https://f-droid.org/en/packages/com.termux/) (F-droid)
+
+
+# Guide
+
 

@@ -58,7 +58,8 @@ clear
 ```
 **❗dw if the last one gave y a error it will still work.❗**
 
-✅ **you're all done, incase you're wondering, no you don't have to do this everytime you launch KDE**
+✅ **you're all done, incase you're wondering, no you don't have to do this everytime you launch a desktop
+it's for one tjme**
 
 
 

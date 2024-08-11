@@ -52,10 +52,7 @@ adb shell "/system/bin/device_config put activity_manager max_phantom_processes 
 ```
 adb shell settings put global settings_enable_monitor_phantom_procs false
 ```
-```
-clear
 
-```
 **❗dw if the last one gave y a error it will still work.❗**
 
 ✅ **you're all done, incase you're wondering, no you don't have to do this everytime you launch a desktop
